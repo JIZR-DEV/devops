@@ -52,6 +52,12 @@ Dichas pruebas se lanzan de manera automática.
 
 Podrá encontar el detalle de los casos en /BANK_TECHNICAL_TEST/src/test/java/com/sotobotero/bank/BankBusinessRuleTests.java
 
+
+#Mas informacion
+Echo por Jose Ignacio Zavala Rocha.
+Se elimino la ultima linea
+
+
 ## Más informacion
 
 Echo por Alvaro valenzuela.
